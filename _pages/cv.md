@@ -14,12 +14,13 @@ redirect_from:
 ## Education
 
 ```
-2016-2021 University of Chicago Booth School of Business , Chicago, IL
+2016-2021 University of Chicago Booth School of Business, Chicago, IL
 PhD Candidate in Finance
 MBA Candidate
 ...
+
 ...
-2013-2016 Cornell University , Ithaca, NY
+2013-2016 Cornell University, Ithaca, NY
 BA in Economics with minors in Computer Science and Mathematics
 Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 ```

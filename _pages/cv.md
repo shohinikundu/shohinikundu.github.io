@@ -24,14 +24,13 @@ Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 ```
 ## Research Experience
 
-...
 ### Job Market Paper: Essays on Collateralized Loan Obligations
-
+...
 1. The Anatomy of Collateralized Loan Obligations: On the Origins of Covenants and
     Contract Design
 2. Financial Covenants and Fire Sales: Fractures in the Leveraged Loan Market
 3. The Financial Contagion of Fire Sales
-
+...
 ### Other Working Papers
 
 4. Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate

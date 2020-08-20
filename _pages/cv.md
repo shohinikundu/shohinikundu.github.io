@@ -9,42 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-# Shohini
+# Shohini Kundu
 
-# Kundu
-
-```
-5807 S Woodlawn
-Chicago, IL 60615
-H +1 (413) 695-
-B skundu@chicagobooth.edu
-```
 ## Education
 
 ```
 2016-2021 University of Chicago Booth School of Business , Chicago, IL
 PhD Candidate in Finance
 MBA Candidate
+...
+...
 2013-2016 Cornell University , Ithaca, NY
 BA in Economics with minors in Computer Science and Mathematics
 Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 ```
 ## Research Experience
 
+...
 ### Job Market Paper: Essays on Collateralized Loan Obligations
 
 1. The Anatomy of Collateralized Loan Obligations: On the Origins of Covenants and
     Contract Design
 2. Financial Covenants and Fire Sales: Fractures in the Leveraged Loan Market
 3. The Financial Contagion of Fire Sales
-
+...
+...
 ### Other Working Papers
 
 4. Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate
     Fluctuations (with Nishant Vats)
 5. What Explains Geographic Variation in Corporate Investment? A Tale of Colonial
     Hangover (with Nishant Vats)
-
+...
+...
 ### Work in Progress
 
 1. Bank Participation and Window Dressing in the Repo Market: Evidence from German
@@ -52,24 +49,21 @@ Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 2. The Production of Financial Intermediation (with Nicola Cetorelli and James Traina)
 3. Flushing down the Labor Gender Gap: Ripples from Toilet Expansion (with Nishant
     Vats)
-
+...
 ## Teaching Experience
 
 ```
-Winter 2020 Teaching Assistant for Prof. Raghuram Rajan , International Corporate Finance.
+Winter 2020 **Teaching Assistant for Prof. Raghuram Rajan**, _International Corporate Finance_.
 3 sections, Chicago Booth
-```
-#### 1
-
-
-Winter 2020 **Teaching Assistant for Prof. Wenxin Du** , _Investments_.
+Winter 2020 **Teaching Assistant for Prof. Wenxin Du**, _Investments_.
 2 sections, Chicago Booth
 Fall 2019 **Teaching Assistant for Prof. George Constantinides** , _Financial Instruments_.
 2 sections, Chicago Booth; 1 section, College
-Spring 2019 **Teaching Assistant for Prof. Anil Kashyap** , _Analytics of Financial Crises_.
+Spring 2019 **Teaching Assistant for Prof. Anil Kashyap**, _Analytics of Financial Crises_.
 2 sections, Chicago Booth
-Spring 2019 **Teaching Assistant for Prof. Wenxin Du** , _Investments_.
+Spring 2019 **Teaching Assistant for Prof. Wenxin Du**, _Investments_.
 2 sections, Chicago Booth
+...
 
 ## Honors and Awards
 

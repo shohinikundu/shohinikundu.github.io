@@ -57,29 +57,30 @@ Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 
  
   2020 Stigler Center PhD Dissertation Award (Bradley Fellowship)
+  
   2020 NSE-NYU Stern Initiative on the Study of Indian Financial Markets Grant
+  
   2019 Fama-Miller Research Grant
+  
   2019 Wheeler Institute for Business and Development Grant
+  
   2017 Center for Research in Security Prices Summer Paper Award
+  
   2017 Stigler Center Research Grant on Regulatory Capture
+  
   2016 Tapan Mitra Economics Prize for Work in International Finance
+  
   2013 National Semifinalist: Intel Science Talent Search
  
 ## Employment
 
-#### 12/2017-7-2018
- 
-Research Intern , German Central Bank , Frankfurt, Germany.
+12/2017-7/2018 *Research Intern, German Central Bank*, Frankfurt, Germany.
 Bank Participation and Window Dressing in the Repo Market: Evidence from German Banks
  
-### 06/2016-08/2016
- 
-Summer Analyst , Citigroup Quantitative Trading and Analysis , New York, NY.
+06/2016-08/2016 *Summer Analyst, Citigroup Quantitative Trading and Analysis*, New York, NY.
 Commodities Research Team
  
-### 05/2015-08/2015
- 
-Summer Analyst , BlackRock Portfolio Analytics Group , New York, NY.
+05/2015-08/2015 *Summer Analyst, BlackRock Portfolio Analytics Group*, New York, NY.
 Financial Markets Advisory
 
 ## Personal

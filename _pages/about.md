@@ -9,6 +9,6 @@ redirect_from:
 ---
 ### PhD Candidate in Finance
 
-I am Shohini Kundu, a PhD candidate at the University of Chicago Booth School of Business. My primary research interests are in financial intermediation and regulation, corporate finance, and macroeconomics. I am also interested in entrepreneurship and economic development. 
+I am Shohini Kundu, a PhD candidate at the University of Chicago Booth School of Business. My primary research interests are financial intermediation and regulation, corporate finance, and macroeconomics. I am also interested in entrepreneurship and economic development. 
 
 

@@ -31,16 +31,14 @@ Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
     Contract Design
 2. Financial Covenants and Fire Sales: Fractures in the Leveraged Loan Market
 3. The Financial Contagion of Fire Sales
-...
-...
+
 ### Other Working Papers
 
 4. Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate
     Fluctuations (with Nishant Vats)
 5. What Explains Geographic Variation in Corporate Investment? A Tale of Colonial
     Hangover (with Nishant Vats)
-...
-...
+
 ### Work in Progress
 
 1. Bank Participation and Window Dressing in the Repo Market: Evidence from German

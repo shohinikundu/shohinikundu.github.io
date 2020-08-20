@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shohini Kundu"
-  avatar           : "profile.png"
+  avatar           : "Shohini-Kundu-240x240.jpg"
   bio              : "I'm a PhD Candidate in Finance at Booth Scool of Business, and I take a data-driven approach to understanding CLO markets."
   location         : "University of Chicago"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://shohinikundu.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ShohiniK"
   vine             :
   weibo            :
   xing             :

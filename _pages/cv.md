@@ -52,11 +52,11 @@ Magna Cum Laude, Distinction in All Subjects, Dean’s Merit List (2013-2016)
 ```
 ## Teaching Experience
 
-1. Winter 2020 **Teaching Assistant for Prof. Raghuram Rajan**, _International Corporate Finance_. 3 sections, Chicago Booth
-2. Winter 2020 **Teaching Assistant for Prof. Wenxin Du**, _Investments_. 2 sections, Chicago Booth
-3. Fall 2019 **Teaching Assistant for Prof. George Constantinides** , _Financial Instruments_. 2 sections, Chicago Booth; 1 section, College
-4. Spring 2019 **Teaching Assistant for Prof. Anil Kashyap**, _Analytics of Financial Crises_. 2 sections, Chicago Booth
-5. Spring 2019 **Teaching Assistant for Prof. Wenxin Du**, _Investments_. 2 sections, Chicago Booth
+1. Winter 2020 **Teaching Assistant for Prof. Raghuram Rajan**, _International Corporate Finance_, 3 sections, Chicago Booth
+2. Winter 2020 **Teaching Assistant for Prof. Wenxin Du**, _Investments_, 2 sections, Chicago Booth
+3. Fall 2019 **Teaching Assistant for Prof. George Constantinides**, _Financial Instruments_, 2 sections, Chicago Booth; 1 section, College
+4. Spring 2019 **Teaching Assistant for Prof. Anil Kashyap**, _Analytics of Financial Crises_, 2 sections, Chicago Booth
+5. Spring 2019 **Teaching Assistant for Prof. Wenxin Du**, _Investments_, 2 sections, Chicago Booth
 
 
 ## Honors and Awards
@@ -93,7 +93,9 @@ Financial Markets Advisory
 ## Personal
 ### 2017- date
 ```
-Board of Directors, Telluride Association. Serve as a trustee for an educational non-profit organization with an endowment of > $50 million that offers educational opportunities and scholarships to high potential high school, undergraduate, and graduate students.
+Board of Directors, Telluride Association. 
+Serve as a trustee for an educational non-profit organization with an endowment of > $50 million 
+that offers educational opportunities and scholarships to high potential high school, undergraduate, and graduate students.
 ```
 ### 2013
 ```
@@ -101,6 +103,7 @@ President’s Volunteer Service Award (Gold Level)
 ```
 
 **Citizenship**: USA
+
 **Languages**: English, Bengali, Spanish, Hindi
 
 

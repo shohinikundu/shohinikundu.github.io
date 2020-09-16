@@ -1,36 +1,20 @@
 ---
 layout: archive
-title: "Courses Taught at UMass ECE"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Undergraduate Courses
+Winter 2020
+======
+- Teaching Assistant for BUS 35210: International Corporate Finance, Prof. Raghuram Rajan (3 sections, Chicago Booth)
+- Teaching Assistant for BUS 35000: Investments, Prof. Wenxin Du (2 sections, Chicago Booth)
 
-- ECE 232:	Hardware Organization and Design
+Fall 2019
+======
+- Teaching Assistant for BUS 20405/35100: Financial Instruments, Prof. George Constantinides (2 sections, Chicago Booth; 1 section, College)
 
-- ECE 242:	Introduction to Data Structures
-
-- ECE 353:	Computer Systems Lab I
-
-- ECE 354:	Computer Systems Lab II
-
-- ECE 373:	Software Intensive Engineering
-
-- ECE 558:	Introduction to VLSI Design
-
-- ECE 559:	VLSI Design Project
-
-
-## Graduate Courses
-
-- ECE 697:	Hardware Design for Machine Learning [Fall 2020](http://www.ecs.umass.edu/ece697ls)
-
-- ECE 654:	Testing and Diagnosis of VLSI Systems 
-
-- ECE 658:	VLSI Design Principles
-
-- ECE 659:	Advanced VLSI Design Project	
-
-- ECE 697:	Design for Manufacturability and Reliability of VLSI Circuits
-
+Spring 2019
+======
+- Teaching Assistant for BUS 35211: Analytics of Financial Crises, Prof. Anil Kashyap (2 sections, Chicago Booth)
+- Teaching Assistant for BUS 35000: Investments, Prof. Wenxin Du (2 sections, Chicago Booth)

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV coming soon.
+This page is under construction. 
 
 
 

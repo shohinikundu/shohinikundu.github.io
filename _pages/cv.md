@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-This page is under construction. 
+This page will be updated soon.
 
 
 

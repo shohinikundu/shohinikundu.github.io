@@ -6,7 +6,7 @@ author_profile: true
 ---
 
  
-This page will be updated soon.
+Research page will be updated soon.
 
 
 

@@ -5,8 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
- 
-CV page will be updated soon.
+CV will be updated soon.
 
 
 

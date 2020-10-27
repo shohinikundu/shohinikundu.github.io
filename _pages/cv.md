@@ -5,6 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-
-CV will be updated soon.
+Here is a link to my <a href="ShohiniKunduCV.pdf">CV</a>
 

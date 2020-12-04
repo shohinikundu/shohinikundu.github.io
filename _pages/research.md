@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper
 <a href="../files/SK3.pdf">**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**</a>  
 
-*2020 BlackRock Applied Research Award Finalist*
+*2020 BlackRock Applied Research Award Winner*
 
 I investigate how covenants, intrinsic to *Collateralized Loan Obligation* (CLO) indentures, provide a mechanism through which idiosyncratic shocks may be amplified, imposing negative externalities on other firms in CLO portfolios. To this aim, I exploit cross-sectional variation in CLO exposure to the Oil & Gas (O&G) industry, as well as the timing of the O&G bust in 2014 to study how non-O&G firms in CLO portfolios are affected. I find that when CLOs are subject to idiosyncratic shocks that push them closer to their covenant constraints, they fire-sell unrelated loans in the secondary loan market to alleviate these constraints. The ex-post, secondary market spread becomes the effective cost of capital for these innocent bystanders, as the expected rate of return across debt instruments is equalized in market equilibrium. In response, firms make financial and real adjustments. These adjustments are most pronounced for riskier firms held in CLO portfolios, whose loans are marked at market prices, as selling mark-to-market loans can generate greater slack in the covenant constraints. As the sample period for this study is 2012-2017, a relatively benign macroeconomic period, the effects may be significantly larger during times of stress such as Spring of 2020, at the outset of the COVID-19 pandemic.
 

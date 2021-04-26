@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Winter 2021
+
+- Teaching Assistant for BUS 35210: International Corporate Finance, Prof. Raghuram Rajan (3 sections, Chicago Booth)
 
 ### Winter 2020
 

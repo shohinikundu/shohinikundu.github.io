@@ -28,7 +28,7 @@ The objective of this paper is to explore the transmission of non-bank capital s
 
 **What Explains Geographic Variation in Investment?** (with Nishant Vats)
 
-We show that institutions can explain geographic concentration over and above agglomerative forces. This paper uses within country variation in institutional quality, combined with a local identification approach and instrumental variable strategy to explain spatial differences in investment. We use direct (indirect) British rule as proxies for areas with low (high) institutional quality. Institutions can explain 13\% of total geographic variation in investment. Moreover, investment is 8-10\% lower in areas with low institutional quality. Differences in institutional quality manifest as greater court delays, impeding individual and stakeholders' contractual claims, property rights, and dispute resolution, thereby decreasing ex-ante investment and increasing ex-post project abandonment.
+We show that institutions can explain geographic concentration over and above agglomerative forces. This paper uses within country variation in institutional quality, combined with a local identification approach and instrumental variable strategy to explain spatial differences in investment. We use direct (indirect) British rule as proxies for areas with low (high) institutional quality. Institutions can explain 13% of total geographic variation in investment. Moreover, investment is 8-10% lower in areas with low institutional quality. Differences in institutional quality manifest as greater court delays, impeding individual and stakeholders' contractual claims, property rights, and dispute resolution, thereby decreasing ex-ante investment and increasing ex-post project abandonment.
 
 ## Work in Progress
 

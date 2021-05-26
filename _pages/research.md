@@ -36,9 +36,3 @@ We show that institutions can explain geographic concentration over and above ag
 **Bank Participation and Window Dressing in the Repo Market: Evidence from German Banks**
 
 The objective of this paper is to investigate how the heterogeneity in key measures of capital and liquidity across German reporting banks affects window dressing in the repo market. Using the ECB's Money Market Statistical Reporting dataset for German reporting banks at the Deutsche Bundesbank and SNL Financial data for balance sheet information, I find evidence of "run-like" behavior at quarter-ends primarily resulting from liquidity and capital concerns. On average, banks *reduce* the overall amount repo-ed at quarter-ends to improve the leverage ratio. Banks *substitute* the type of collateral used to secure repos at quarter-ends, thereby improving the liquidity coverage ratio. These results suggest that banks engage in regulatory arbitrage to nominally meet regulatory requirements at quarter-ends, while bearing significant capital and liquidity risk during the quarter. Moreover, I find that window dressing is most prevalent among repo agreements backed by high-quality spot-next and overnight collateral traded with non-CCPs. The effect is (cash) demand driven.
-
-
-**The Deposits Channel of Aggregate Fluctuations (with Seongjin Park and Nishant Vats)**
-
-
-

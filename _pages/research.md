@@ -8,7 +8,7 @@ author_profile: true
 [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 
 [*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award), 
-[*Stigler Center PhD Dissertation Award*](https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award)
+[*Stigler Center PhD Dissertation Award*](https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award),
 [*QCGBF Young Economist Prize Runner-Up*](https://www.kcl.ac.uk/news/young-economist-prize-competition)
 
 I investigate how covenants, intrinsic to *Collateralized Loan Obligation* (CLO) indentures, provide a mechanism through which idiosyncratic shocks may amplify, imposing negative externalities on other unrelated firms in CLO portfolios. I exploit cross-sectional variation in firm exposure to the Oil & Gas (O&G) industry through CLOs, as well as the timing of the O&G bust in 2014, to study how non-O&G firms in CLO portfolios are affected. When CLOs are subject to idiosyncratic shocks that push them closer to their covenant constraints, they fire-sell unrelated loans in the secondary loan market to alleviate these constraints. The ex-post, secondary market price becomes the effective cost of capital for these innocent bystanders as the expected rate of return across debt instruments is equalized in market equilibrium. Hence, the real costs of fire sales can exacerbate credit crunches through the contraction of credit. In response, the firms make financial and real adjustments. Contrary to traditional fire sale settings, I find CLOs fire-sell loans issued by riskier firms for *contractual arbitrage* purposes -- exploiting loopholes in the design of covenants. The sample period for this study is 2013-2015, a relatively benign macroeconomic period. However, the results suggest the effects may be significantly larger during times of stress, including the outset of the COVID-19 pandemic. 
@@ -38,8 +38,7 @@ We show that institutions can explain geographic concentration over and above ag
 The objective of this paper is to investigate how the heterogeneity in key measures of capital and liquidity across German reporting banks affects window dressing in the repo market. Using the ECB's Money Market Statistical Reporting dataset for German reporting banks at the Deutsche Bundesbank and SNL Financial data for balance sheet information, I find evidence of "run-like" behavior at quarter-ends primarily resulting from liquidity and capital concerns. On average, banks *reduce* the overall amount repo-ed at quarter-ends to improve the leverage ratio. Banks *substitute* the type of collateral used to secure repos at quarter-ends, thereby improving the liquidity coverage ratio. These results suggest that banks engage in regulatory arbitrage to nominally meet regulatory requirements at quarter-ends, while bearing significant capital and liquidity risk during the quarter. Moreover, I find that window dressing is most prevalent among repo agreements backed by high-quality spot-next and overnight collateral traded with non-CCPs. The effect is (cash) demand driven.
 
 
-
-
+**The Deposits Channel of Aggregate Fluctuations (with Seongjin Park and Nishant Vats)**
 
 
 

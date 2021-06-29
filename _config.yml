@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shohini Kundu"
 title_separator          : "-"
 name                     : &name "Shohini Kundu"
-description              : &description "Assistant Professor of Finance (from July)"
+description              : &description "Assistant Professor of Finance"
 url                      : https://shohinikundu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shohinikundu.github.io"
@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : University of Chicago Booth School of Business
   name                   : University of Chicago Booth School of Business
-  links: https://chicagobooth.edu
+  links: https://anderson.ucla.edu
 
 
 # Analytics
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shohini Kundu"
   avatar           : "Shohini-Kundu-240x240.JPG"
-  bio              : "Assistant Professor of Finance (from July)"
-  location         : "Booth School of Business"
-  employer         : "University of Chicago"
+  bio              : "Assistant Professor of Finance"
+  location         : "Anderson School of Management"
+  employer         : "University of California, Los Angeles"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "skundu@chicagobooth.edu"
+  email            : "shohini.kundu@anderson.ucla.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Collateralized Loan Obligations
+## Fire Sales
 
  * [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 

@@ -30,6 +30,11 @@ author_profile: true
  * [**Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations** (with Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299)
 
    The objective of this paper is to explore the transmission of non-capital shocks through banking networks. We develop a methodology to construct non-capital (real) shocks, idiosyncratic shocks, using labor productivity shocks to large firms. We document a change in the relationship between (foreign) idiosyncratic shocks in state j and (domestic) economic growth in state i between 1978 and 2000 wherein the relation changes from positive to negative over this period. We show that the contemporaneous changes in banking integration across states is a key driver of this phenomenon. This is driven by geographically diversified banks diverting funds away from economies experiencing negative shocks towards other unaffected economies. This result operates through changes in bank loan supply. Our instrumental variable estimates suggest that a 1% increase in the bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, we argue that this mechanism can explain the decrease in covariance of state-level fluctuations, potentially explaining the Great Moderation, the period of relatively low aggregate volatility.
+   
+ * [**The Deposits Channel of Aggregate Fluctuations** (with Seongjin Park and Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883605)
+
+   This paper presents a new mechanism through which the geography of bank deposits increases financial fragility. We document within-bank geographic concentration of deposits -- 30% of bank deposits are concentrated in a single county. We combine this within-bank geographic concentration of deposits with local natural-disaster-induced property damages to construct novel bank deposit shocks. On aggregate, these shocks can explain 3.30% of variation in economic growth. Local disaster shocks result in aggregate fluctuations through their effect on deposits, which negatively affect bank lending. Financial frictions such as regulatory constraints, informational advantages, and borrower constraints are critical for the aggregation of shocks.
+
 
 ## Finance and Development
 

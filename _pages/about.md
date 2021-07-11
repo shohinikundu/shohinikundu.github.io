@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD from the University of Chicago Booth School of Business. My primary research interests are financial intermediation, regulation, corporate finance, and macroeconomics. I have a secondary interest in entrepreneurship and emerging market finance. 
-
-I will be joining the UCLA Anderson School of Management as an Assistant Professor of Finance from July 2021. 
+I am an assistant professor of finance at the UCLA Anderson School of Management. My primary research interests are financial intermediation, regulation, corporate finance, and macroeconomics. 

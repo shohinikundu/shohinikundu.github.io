@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of finance at the UCLA Anderson School of Management. My primary research interests are financial intermediation, regulation, corporate finance, and macroeconomics. 
+I am an assistant professor of finance at the UCLA Anderson School of Management. My primary research interests are financial intermediation, regulation, corporate finance, and macroeconomics. I have a secondary interest in entrepreneurship and emerging market finance. 

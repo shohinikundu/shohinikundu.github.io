@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Fire Sales
+## Fire Sales and Financial Contracts
 
  * [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 
@@ -15,9 +15,9 @@ author_profile: true
    I investigate how covenants, intrinsic to Collateralized Loan Obligation (CLO) indentures, provide a mechanism through which idiosyncratic shocks may be amplified, imposing negative externalities on other unrelated firms in CLO portfolios. I exploit cross-sectional variation in firm exposure to the Oil &amp; Gas (O&amp;G) industry through CLOs, as well as the timing of the O&amp;G bust in 2014 to study how non-O&amp;G firms in CLO portfolios are affected. When CLOs are subject to idiosyncratic shocks that push them closer to their covenant constraints, they fire-sell unrelated loans in the secondary loan market to alleviate these constraints. The ex-post, secondary market spread becomes the effective cost of capital for these innocent bystanders as the expected rate of return across debt instruments is equalized in market equilibrium. Hence, the real costs of fire sales can exacerbate credit crunches through the contraction of credit. In response, firms make financial and real adjustments. Contrary to traditional fire sale settings, I find that CLOs fire sell loans issued by riskier firms for contractual arbitrage purposes -- exploiting loopholes in the design of covenants. The sample period for this study is 2013-2015, a relatively benign macroeconomic period. However, the results suggest that the effects may be significantly larger during times of stress, including the outset of the COVID-19 pandemic.
 
 
- * [**Financial Covenants and Fire Sales: Fractures in the Leveraged Loan Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416)
+ * [**Fire Sales in Closed-End Funds**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416)
 
-   I study the externalities of Collateralized Loan Obligation (CLO) contracts on asset prices. I introduce several new stylized facts about the role of CLOs in the provision of credit to risky firms. Managers preemptively sell loans issued by distressed firms before firms' bankruptcy filings. CLO managerial sales generate price pressure for distressed loans around bankruptcy defaults, introducing fire sale risk. This behavior is driven mainly by covenants. Constrained CLOs experience significantly lower cumulative returns relative to unconstrained CLOs. Furthermore, covenants can explain CLO size as well as equity distributions -- two salient features of capital structure.
+  Closed-end funds are thought to have negligible fire sale risk as they have stable funding. This paper documents fire sale risk in closed-end funds. I show that covenants intrinsic to Collateralized Loan Obligation (CLO) contracts can impose externalities on asset prices. Covenants are intended to mitigate agency costs. However, they can induce CLO managers to preemptively sell loans issued by distressed firms before the firms file for bankruptcy. These sales generate price pressure for distressed loans around bankruptcy default events. Constrained CLOs experience significantly lower cumulative returns relative to unconstrained CLOs. Hence, the underlying agency problem cannot be completely eliminated through changes to the organizational structure of funds.
 
 
  * [**The Anatomy of Collateralized Loan Obligations: On the Origins of Covenants and Contract Design**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092)

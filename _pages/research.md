@@ -17,7 +17,7 @@ author_profile: true
 
  * [**Fire Sales in Closed-End Funds**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416)
 
-   Closed-end funds are thought to have negligible fire sale risk as they have stable funding. This paper documents fire sale risk in closed-end funds. I show that covenants intrinsic to Collateralized Loan Obligation (CLO) contracts impose externalities on asset prices. Covenants are intended to mitigate agency costs. However, they can induce CLO managers to preemptively sell loans issued by distressed firms before the firms file for bankruptcy. These sales generate price pressure around bankruptcy default events. Constrained CLOs experience significantly lower cumulative returns relative to unconstrained CLOs. Hence, changes to the organizational structure cannot completely redress the underlying agency problem.
+   Closed-end funds are thought to have negligible fire sale risk as they have stable funding. This paper documents fire sale risk in closed-end funds. I show that covenants intrinsic to Collateralized Loan Obligation (CLO) contracts impose externalities on asset prices. Covenants are intended to mitigate agency costs. However, they can induce CLO managers to preemptively sell loans issued by distressed firms before the firms file for bankruptcy. These sales generate price pressure around bankruptcy default events. Constrained CLOs experience significantly lower cumulative returns relative to unconstrained CLOs. Hence, the remediation designed to address the agency problem in closed-end funds creates fire sale risk, like in open-end funds.
 
 
  * [**The Anatomy of Collateralized Loan Obligations: On the Origins of Covenants and Contract Design**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092)

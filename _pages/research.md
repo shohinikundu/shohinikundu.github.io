@@ -8,7 +8,7 @@ author_profile: true
 
  * [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 
-   [*ECB's Young Economists' Competition Finalist*](https://www.blackrock.com/corporate/applied-research-award), 
+   [*ECB's Young Economists' Competition Finalist*](https://www.ecb.europa.eu/pub/conferences/ecbforum/YE_competition/html/index.en.html), 
 [*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award), 
 [*Qatar Centre for Global Banking & Finance Young Economist Prize Runner-Up*](https://www.kcl.ac.uk/news/young-economist-prize-competition),
 [*WFA PhD Candidate Award For Outstanding Research*](https://westernfinance.org/wp-content/uploads/2021.links_.pdf),

@@ -10,4 +10,4 @@ redirect_from:
 
 I am an assistant professor of finance at the UCLA Anderson School of Management. 
 
-My research interests lie in the triad of (_I_) financial intermediation and macroeconomics, (_II_) security design and externalities of financial contracts, and (_III_) emerging market finance.
+My research interests lie in the triad of (I) financial intermediation and macroeconomics, (II) security design and externalities of financial contracts, and (III) emerging market finance.

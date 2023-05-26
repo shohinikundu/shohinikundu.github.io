@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## ${\color{blue}\text{I. Security Design and Externalities of Financial Contracts}}$
+## I. Security Design and Externalities of Financial Contracts
 
  `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 
@@ -29,7 +29,7 @@ Closed-end funds are thought to have negligible fire sale risk as they have stab
 
 Collateralized loan obligations (CLOs), intermediaries situated between investors and traditional banks, play an increasingly central role in the provision of credit to constrained corporations, holding as much as 75% of all new institutional leveraged loans. Despite their ascendancy in the risky corporate credit market, there has been little academic research on the CLO market. This paper provides a comprehensive overview of the design and structure of the CLO market, describing the general macroeconomic milieu that has facilitated the rapid growth of the market, the mechanics therein, as well as recent risks that have emerged. Understanding the anatomy and dynamics of CLOs is paramount for developing insights into the role of non-bank financial intermediaries in financial markets.
 
-## ${\color{blue}\text{II. Empirical Macro Finance}}$
+## II. Empirical Macro Finance
 
 `5.` [**Predicting Recessions** (with Rajkamal Iyer and Nikos Paltalidis)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519)
 
@@ -44,7 +44,7 @@ What are the aggregate effects of deposit shocks? Using the granular-instrumenta
 This paper explores the transmission of non-capital shocks through banking networks. We construct non-capital (idiosyncratic) shocks, using labor productivity shocks to large firms. We document a change in the relationship between foreign idiosyncratic shocks and domestic economic growth between 1978 and 2000. Contemporaneous changes in banking integration drive this phenomenon as geographically diversified banks divert funds away from economies experiencing negative shocks towards other unaffected economies. Our granular-IV estimates suggest that a 1\% increase in bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, this can potentially explain the Great Moderation.
 
 
-## ${\color{blue}\text{III. Finance and Development}}$
+## III. Finance and Development
 
 
 `8.` [**What Explains Geographic Variation in Corporate Investment?** (with Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851008)

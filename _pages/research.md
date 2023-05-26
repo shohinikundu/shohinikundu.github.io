@@ -13,6 +13,7 @@ author_profile: true
 [*Qatar Centre for Global Banking & Finance Young Economist Prize Runner-Up*](https://www.kcl.ac.uk/news/young-economist-prize-competition),
 [*WFA PhD Candidate Award For Outstanding Research*](https://westernfinance.org/wp-content/uploads/2021.links_.pdf),
 [*Stigler Center PhD Dissertation Award*](https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award),
+[*European Systemic Risk Board Working Paper*](https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp.141.en.pdf?a4df56ef10c1106af985488bee9b0435)
 
 This paper demonstrates that covenants in Collateralized Loan Obligation (CLO) contracts can amplify idiosyncratic shocks and impose negative externalities on unrelated firms in CLO portfolios. Following a negative shock to the oil & gas industry, CLOs with exposure to oil and gas loans are pushed closer to their covenant thresholds and fire-sell unrelated loans in the secondary loan market to alleviate these constraints. These fire sales exert price pressure on the securities of unrelated firms, creating market dislocations. The erosion in the liquidity positions of exposed firms spills over into real economic activity. The findings highlight the real effects from fire sales arising due to contracting frictions.
 

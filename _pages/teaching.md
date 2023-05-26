@@ -4,6 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Spring 2023
+
+- Instructor for MGMT 430: Corporate Finance (1 section, UCLA Anderson)
+
+### Winter 2023
+
+- Instructor for MGMT 430: Corporate Finance (2 sections, UCLA Anderson)
+
+### Spring 2022
+
+- Instructor for MGMT 430: Corporate Finance (2 sections, UCLA Anderson)
+
 ### Winter 2021
 
 - Teaching Assistant for BUS 35210: International Corporate Finance, Prof. Raghuram Rajan (3 sections, Chicago Booth)

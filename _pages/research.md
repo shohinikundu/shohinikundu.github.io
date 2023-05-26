@@ -41,7 +41,7 @@ What are the aggregate effects of deposit shocks? Using the granular-instrumenta
 
 `7.` [**Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations** (with Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299)
 
-This paper explores the transmission of non-capital shocks through banking networks. We construct non-capital (idiosyncratic) shocks, using labor productivity shocks to large firms. We document a change in the relationship between foreign idiosyncratic shocks and domestic economic growth between 1978 and 2000. Contemporaneous changes in banking integration drive this phenomenon as geographically diversified banks divert funds away from economies experiencing negative shocks towards other unaffected economies. Our granular-IV estimates suggest that a 1\% increase in bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, this can potentially explain the Great Moderation.
+This paper explores the transmission of non-capital shocks through banking networks. We construct non-capital (idiosyncratic) shocks, using labor productivity shocks to large firms. We document a change in the relationship between foreign idiosyncratic shocks and domestic economic growth between 1978 and 2000. Contemporaneous changes in banking integration drive this phenomenon as geographically diversified banks divert funds away from economies experiencing negative shocks towards other unaffected economies. Our granular-IV estimates suggest that a 1% increase in bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, this can potentially explain the Great Moderation.
 
 
 ## III. Finance and Development

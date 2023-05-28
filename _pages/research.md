@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## I. Security Design and Externalities of Financial Contracts
 
- `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
+ `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations (JMP)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
 
 [*ECB's Young Economists' Competition Finalist*](https://www.ecb.europa.eu/pub/conferences/ecbforum/previous_fora/2021/html/YE_competition_2021.en.html), 
 [*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award/prior-program-winners), 
@@ -21,12 +21,12 @@ This paper demonstrates that covenants in Collateralized Loan Obligation (CLO) c
 
 This paper proposes a mechanism to address the issue of "monitoring with small stakes" in syndicated lending. We identify two sources that incentivize creditor monitoring: skin-in-the-game and rent extraction from renegotiation. Renegotiation-based rent extraction serves a substitute to banks' loan stake for monitoring incentives, facilitating institutional investors’ participation in syndicated lending. We use the passage of a tax policy that exogenously reduced renegotiation frictions to identify this channel. Our findings suggests that a less frictional renegotiation environment leads to more diligent monitoring, smaller bank shares in new loans and improved borrower performance, particularly in pre-existing deals with lower bank skin-in-the-game.
 
- `3.` [**Financial Covenants and Fire Sales in Closed-End Funds**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416), _Management Science_, Forthcoming
+ `3.` [**Financial Covenants and Fire Sales in Closed-End Funds (Dissertation Chapter 2)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416), _Management Science_, Forthcoming
 
 Closed-end funds are thought to have negligible fire sale risk as they have stable funding. However, I show that embedded covenants can generate price pressure in collateralized loan obligation (CLO) funds, even though such funds are closed end. Loans held by constrained CLOs report significantly lower cumulative returns than loans held by unconstrained CLOs. This can be explained by contractual arbitrage, a practice by which CLOs exploit loopholes in the design of covenants to mechanically loosen their covenants and avoid covenant breaches. Covenant breaches are associated with significant pecuniary and non-pecuniary costs, affecting CLO compensation, reputation and career prospects. I show that when covenants breaches are imminent, managers fire sell distressed loans. Hence, I demonstrate a channel by which closed-end funds can also create fire sale risk, akin to their open-end counterparts.
 
 
-`4.` [**The Anatomy of Corporate Securitizations and Contract Design**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092), _Journal of Corporate Finance_, 2022
+`4.` [**The Anatomy of Corporate Securitizations and Contract Design (Dissertation Chapter 1)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092), _Journal of Corporate Finance_, 2022
 
 Collateralized loan obligations (CLOs), intermediaries situated between investors and traditional banks, play an increasingly central role in the provision of credit to constrained corporations, holding as much as 75% of all new institutional leveraged loans. Despite their ascendancy in the risky corporate credit market, there has been little academic research on the CLO market. This paper provides a comprehensive overview of the design and structure of the CLO market, describing the general macroeconomic milieu that has facilitated the rapid growth of the market, the mechanics therein, as well as recent risks that have emerged. Understanding the anatomy and dynamics of CLOs is paramount for developing insights into the role of non-bank financial intermediaries in financial markets.
 

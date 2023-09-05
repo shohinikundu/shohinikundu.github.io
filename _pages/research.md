@@ -32,9 +32,9 @@ Collateralized loan obligations (CLOs), intermediaries situated between investor
 
 ## II. Empirical Macro Finance
 
-`5.` [**Predicting Recessions** (with Rajkamal Iyer and Nikos Paltalidis)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519)
+`5.` [**Canary in the Coal Mine: Bank Liquidity Shortages and Local Economic Activity** (with Rajkamal Iyer and Nikos Paltalidis)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519)
 
-This paper predicts recessions using the dispersion of deposit rates offered by banks on insured deposits. An increase in the dispersion of deposit rates can accurately predict recessions over long time horizons at the county, state, and national levels. We find that the growth of deposits, particularly uninsured deposits of riskier banks, slows down at the onset of a downturn, regardless of whether the downturn was preceded by a credit boom. In turn, riskier banks increase their deposit rates to attract more funding to support their balance sheet. The resulting increase in the dispersion of deposit rates predicts an impending economic downturn.
+This paper investigates the relation between bank liquidity and local economic activity. We find that an increase in deposit rates offered by banks within a geographic region is associated with contractions in economic activity. As a region heads to an economic downturn, deposit growth slows down, prompting banks to increase deposit rates to support their balance sheet. This increase in deposit rates reflects the liquidity squeeze experienced by banks due to deteriorating economic conditions, which in turn serves as an indicator of an impending economic contraction.
 
 `6.` [**The Geography of Bank Deposits and the Origins of Aggregate Fluctuations** (with Seongjin Park and Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883605)
 

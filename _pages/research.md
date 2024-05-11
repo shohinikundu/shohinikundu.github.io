@@ -1,9 +1,9 @@
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research</title>
 <style>
     :root {
         --button-blue: #007bff; /* Blue color for buttons */
@@ -22,7 +22,7 @@ author_profile: true
     .abstract-content {
         display: none;
         padding: 10px;
-        background-color: #f1f1f1;
+        background-color: white;
         margin-top: 10px;
     }
 
@@ -30,17 +30,10 @@ author_profile: true
         margin: 0;
     }
 </style>
+</head>
+<body>
 
-## I. Security Design and Externalities of Financial Contracts
-
- `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations (JMP)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645)
-
-[*ECB's Young Economists' Competition Finalist*](https://www.ecb.europa.eu/pub/conferences/ecbforum/previous_fora/2021/html/YE_competition_2021.en.html), 
-[*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award/prior-program-winners), 
-[*Qatar Centre for Global Banking & Finance Young Economist Prize Runner-Up*](https://www.kcl.ac.uk/news/young-economist-prize-competition),
-[*WFA PhD Candidate Award For Outstanding Research*](https://westernfinance.org/wp-content/uploads/2021.links_.pdf),
-[*Stigler Center PhD Dissertation Award*](https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award),
-[*European Systemic Risk Board Working Paper*](https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp.141.en.pdf?a4df56ef10c1106af985488bee9b0435)
+<h2>I. Security Design and Externalities of Financial Contracts</h2>
 
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract1')">Abstract</button>
@@ -49,28 +42,20 @@ author_profile: true
     </div>
 </div>
 
-
-
-`2.` [**Monitoring with Small Stakes**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271851) (with Sheila Jiang and Douglas Xu)
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract2')">Abstract</button>
     <div id="abstract2" class="abstract-content">
-        <p>This paper proposes a mechanism to address the issue of "monitoring with small stakes" in syndicated lending. We identify two sources that incentivize creditor monitoring: skin-in-the-game and rent extraction from renegotiation. Renegotiation-based rent extraction serves a substitute to banks' loan stake for monitoring incentives, facilitating institutional investors’ participation in syndicated lending. We use the passage of a tax policy that exogenously reduced renegotiation frictions to identify this channel. Our findings suggests that a less frictional renegotiation environment leads to more diligent monitoring, smaller bank shares in new loans and improved borrower performance, particularly in pre-existing deals with lower bank skin-in-the-game.</p>
+        <p>This paper proposes a mechanism to address the issue of "monitoring with small stakes" in syndicated lending. We identify two sources that incentivize creditor monitoring: skin-in-the-game and rent extraction from renegotiation. Renegotiation-based rent extraction serves a substitute to banks' loan stake for monitoring incentives, facilitating institutional investors’ participation in syndicated lending. We use the passage of a tax policy that exogenously reduced renegotiation frictions to identify this channel. Our findings suggest that a less frictional renegotiation environment leads to more diligent monitoring, smaller bank shares in new loans and improved borrower performance, particularly in pre-existing deals with lower bank skin-in-the-game.</p>
     </div>
 </div>
 
-
- `3.` [**Financial Covenants and Fire Sales in Closed-End Funds (Dissertation Chapter 2)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416), _Management Science_, 2024
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract3')">Abstract</button>
     <div id="abstract3" class="abstract-content">
-        <p>Closed-end funds are thought to have negligible fire sale risk as they have stable funding. However, I show that embedded covenants can generate price pressure in collateralized loan obligation (CLO) funds, even though such funds are closed end. Loans held by constrained CLOs report significantly lower cumulative returns than loans held by unconstrained CLOs. This can be explained by contractual arbitrage, a practice by which CLOs exploit loopholes in the design of covenants to mechanically loosen their covenants and avoid covenant breaches. Covenant breaches are associated with significant pecuniary and non-pecuniary costs, affecting CLO compensation, reputation and career prospects. I show that when covenants breaches are imminent, managers fire sell distressed loans. Hence, I demonstrate a channel by which closed-end funds can also create fire sale risk, akin to their open-end counterparts.</p>
+        <p>Closed-end funds are thought to have negligible fire sale risk as they have stable funding. However, I show that embedded covenants can generate price pressure in collateralized loan obligation (CLO) funds, even though such funds are closed end. Loans held by constrained CLOs report significantly lower cumulative returns than loans held by unconstrained CLOs. This can be explained by contractual arbitrage, a practice by which CLOs exploit loopholes in the design of covenants to mechanically loosen their covenants and avoid covenant breaches. Covenant breaches are associated with significant pecuniary and non-pecuniary costs, affecting CLO compensation, reputation, and career prospects. I show that when covenant breaches are imminent, managers fire sell distressed loans. Hence, I demonstrate a channel by which closed-end funds can also create fire sale risk, akin to their open-end counterparts.</p>
     </div>
 </div>
 
-
-
-`4.` [**The Anatomy of Corporate Securitizations and Contract Design (Dissertation Chapter 1)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092), _Journal of Corporate Finance_, 2023
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract4')">Abstract</button>
     <div id="abstract4" class="abstract-content">
@@ -78,10 +63,8 @@ author_profile: true
     </div>
 </div>
 
+<h2>II. Empirical Macro Finance</h2>
 
-## II. Empirical Macro Finance
-
-`5.` [**Canary in the Coal Mine: Bank Liquidity Shortages and Local Economic Activity** (with Rajkamal Iyer and Nikos Paltalidis)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519)
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract5')">Abstract</button>
     <div id="abstract5" class="abstract-content">
@@ -89,7 +72,6 @@ author_profile: true
     </div>
 </div>
 
-`6.` [**The Geography of Bank Deposits and the Origins of Aggregate Fluctuations** (with Seongjin Park and Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883605)
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract6')">Abstract</button>
     <div id="abstract6" class="abstract-content">
@@ -97,8 +79,6 @@ author_profile: true
     </div>
 </div>
 
-
-`7.` [**Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations** (with Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299)
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract7')">Abstract</button>
     <div id="abstract7" class="abstract-content">
@@ -106,16 +86,25 @@ author_profile: true
     </div>
 </div>
 
+<h2>III. Finance and Development</h2>
 
-
-
-## III. Finance and Development
-
-
-`8.` [**What Explains Geographic Variation in Corporate Investment?** (with Nishant Vats)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851008)
 <div>
     <button class="abstract-button" onclick="toggleAbstract('abstract8')">Abstract</button>
     <div id="abstract8" class="abstract-content">
         <p>We show that history can explain the geographic concentration of investment over and above traditional agglomerative forces, geography, and expectations. We use spatial variation in direct and indirect British rule to identify differences in historical circumstances. Using this within-country variation in historical circumstances, combined with a local identification approach and instrumental variable strategy, we explain the spatial differences in investment. Differences in historical origins can explain 13% of total geographic variation in investment. Moreover, investment is 8-10% lower in direct ruled areas. Our results indicate that history can have long-run consequences through its effect on economic organizations and state capacity.</p>
     </div>
 </div>
+
+<script>
+    function toggleAbstract(id) {
+        var abstract = document.getElementById(id);
+        if (abstract.style.display === "none") {
+            abstract.style.display = "block";
+        } else {
+            abstract.style.display = "none";
+        }
+    }
+</script>
+
+</body>
+</html>

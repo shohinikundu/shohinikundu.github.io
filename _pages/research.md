@@ -7,7 +7,8 @@ author_profile: true
 
 ## I. Security Design and Externalities of Financial Contracts
 
- `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations (JMP)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645) 
+ `1.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645" style="color: black; text-decoration: underline;text-decoration-style: dotted;">**The Externalities of Fire Sales** </a>
+
 
 [*ECB's Young Economists' Competition Finalist*](https://www.ecb.europa.eu/pub/conferences/ecbforum/previous_fora/2021/html/YE_competition_2021.en.html), 
 [*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award/prior-program-winners), 

@@ -4,9 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-> **I teach in the Full-Time MBA, Fully-Employed MBA, and Executive MBA programs at UCLA Anderson. I am scheduled to teach in all quarters of 2024: winter, spring, summer, and fall.**
+I teach in the Full-Time MBA, Fully-Employed MBA, and Executive MBA programs at UCLA Anderson. I am scheduled to teach in all quarters of 2024: winter, spring, summer, and fall.
 
-`**Winter 2024 Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0.`
+> **Winter 2024 Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0.`
 
 
 ## Fall 2024

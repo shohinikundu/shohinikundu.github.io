@@ -7,35 +7,31 @@ author_profile: true
 
 ## I. Security Design and Externalities of Financial Contracts
 
- `1.` [**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271851)
+ `1.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3735645" style="color:rgb(0, 0, 128); text-decoration: underline;">**The Externalities of Fire Sales: Evidence from Collateralized Loan Obligations** </a>
 
-[*ECB's Young Economists' Competition Finalist*](https://www.ecb.europa.eu/pub/conferences/ecbforum/previous_fora/2021/html/YE_competition_2021.en.html), 
-[*BlackRock Applied Research Award Winner*](https://www.blackrock.com/corporate/applied-research-award/prior-program-winners), 
-[*Qatar Centre for Global Banking & Finance Young Economist Prize Runner-Up*](https://www.kcl.ac.uk/news/young-economist-prize-competition),
-[*WFA PhD Candidate Award For Outstanding Research*](https://westernfinance.org/wp-content/uploads/2021.links_.pdf),
-[*Stigler Center PhD Dissertation Award*](https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award),
-[*European Systemic Risk Board Working Paper*](https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp.141.en.pdf?a4df56ef10c1106af985488bee9b0435)
+<a href="https://www.ecb.europa.eu/pub/conferences/ecbforum/previous_fora/2021/html/YE_competition_2021.en.html" style="color:black; text-decoration: underline;">*ECB's Young Economists' Competition Finalist* </a> <a href="https://www.blackrock.com/corporate/applied-research-award/prior-program-winners" style="color:black; text-decoration: underline;">*BlackRock Applied Research Award Winner* </a> <a href="https://www.kcl.ac.uk/news/young-economist-prize-competition" style="color:black; text-decoration: underline;">*Qatar Centre for Global Banking & Finance Young Economist Prize Runner-Up* </a> <a href="https://westernfinance.org/wp-content/uploads/2021.links_.pdf" style="color:black; text-decoration: underline;">*WFA PhD Candidate Award For Outstanding Research* </a> <a href="https://www.chicagobooth.edu/research/stigler/research/phd-dissertation-award" style="color:black; text-decoration: underline;">*Stigler Center PhD Dissertation Award* </a> <a href="https://www.esrb.europa.eu/pub/pdf/wp/esrb.wp.141.en.pdf?a4df56ef10c1106af985488bee9b0435" style="color:black; text-decoration: underline;">*European Systemic Risk Board Working Paper* </a>
+
 <details>
 <summary>Abstract:</summary>
  
 > This paper uses an exogenous industry shock to demonstrate that covenants in debt markets cause spillovers and trigger liquidations of unrelated loans in loan portfolios. Specifically, I show that following a negative shock to the oil and gas (O&G) industry, collateralized loan obligations (CLOs) with exposure to O&G loans are pushed closer to their covenant thresholds and sell non-O&G loans in the secondary market to alleviate these constraints. These sales exert price pressure on the securities of non-O&G firms, creating market dislocations. The erosion in the liquidity positions of exposed firms also spills over into real economic activity. Hence, liquidations originating from covenants may exacerbate credit crunches, by propagating shocks through capital markets.
 </details>
 
-`2.` [**Monitoring with Small Stakes**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271851) (with Sheila Jiang and Douglas Xu)
+`2.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4271851" style="color:rgb(0, 0, 128); text-decoration: underline;">**Monitoring with Small Stakes** </a>(with Sheila Jiang and Douglas Xu)
 <details>
 <summary>Abstract:</summary>
 
 >This paper proposes a mechanism to address the issue of "monitoring with small stakes" in syndicated lending. We identify two sources that incentivize creditor monitoring: skin-in-the-game and rent extraction from renegotiation. Renegotiation-based rent extraction serves a substitute to banks' loan stake for monitoring incentives, facilitating institutional investors’ participation in syndicated lending. We use the passage of a tax policy that exogenously reduced renegotiation frictions to identify this channel. Our findings suggests that a less frictional renegotiation environment leads to more diligent monitoring, smaller bank shares in new loans and improved borrower performance, particularly in pre-existing deals with lower bank skin-in-the-game. 
           </details>
 
- `3.` [**Financial Covenants and Fire Sales in Closed-End Funds (Dissertation Chapter 2)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416), _Management Science_, Forthcoming 
- <details>
+ `3.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595416" style="color:rgb(0, 0, 128); text-decoration: underline;">**Financial Covenants and Fire Sales in Closed-End Funds (Dissertation Chapter 2)** </a>, _Management Science_, Forthcoming 
+<details>
 <summary>Abstract:</summary>
 
 > Closed-end funds are thought to have negligible fire sale risk as they have stable funding. However, I show that embedded covenants can generate price pressure in collateralized loan obligation (CLO) funds, even though such funds are closed end. Loans held by constrained CLOs report significantly lower cumulative returns than loans held by unconstrained CLOs. This can be explained by contractual arbitrage, a practice by which CLOs exploit loopholes in the design of covenants to mechanically loosen their covenants and avoid covenant breaches. Covenant breaches are associated with significant pecuniary and non-pecuniary costs, affecting CLO compensation, reputation and career prospects. I show that when covenants breaches are imminent, managers fire sell distressed loans. Hence, I demonstrate a channel by which closed-end funds can also create fire sale risk, akin to their open-end counterparts.
           </details>
 
-`4.` [**The Anatomy of Corporate Securitizations and Contract Design (Dissertation Chapter 1)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092), _Journal of Corporate Finance_, 2022
+`4.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740092" style="color:rgb(0, 0, 128); text-decoration: underline;">**The Anatomy of Corporate Securitizations and Contract Design (Dissertation Chapter 1)** </a>, _Journal of Corporate Finance_, 2022
 <details>
 <summary>Abstract:</summary>
 
@@ -43,25 +39,23 @@ author_profile: true
           </details>
 
 
-
-
 ## II. Empirical Macro Finance
 
-`5.` [**Canary in the Coal Mine: Bank Liquidity Shortages and Local Economic Activity**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519) (with Rajkamal Iyer and Nikos Paltalidis)
+`5.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519" style="color:rgb(0, 0, 128); text-decoration: underline;">**Canary in the Coal Mine: Bank Liquidity Shortages and Local Economic Activity** </a> (with Rajkamal Iyer and Nikos Paltalidis)
 <details>
 <summary>Abstract:</summary>
 
 > This paper investigates the relation between bank liquidity and local economic activity. We find that an increase in deposit rates offered by banks within a geographic region is associated with contractions in economic activity. As a region heads to an economic downturn, deposit growth slows down, prompting banks to increase deposit rates to support their balance sheet. This increase in deposit rates reflects the liquidity squeeze experienced by banks due to deteriorating economic conditions, which in turn serves as an indicator of an impending economic contraction.
           </details>
 
-`6.` [**The Geography of Bank Deposits and the Origins of Aggregate Fluctuations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883605) (with Seongjin Park and Nishant Vats)
+`6.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883605" style="color:rgb(0, 0, 128); text-decoration: underline;">**The Geography of Bank Deposits and the Origins of Aggregate Fluctuations** </a> (with Seongjin Park and Nishant Vats)
 <details>
 <summary>Abstract:</summary>
 
 > What are the aggregate effects of deposit shocks? Using the granular-instrumental-variable methodology, we identify the deposit elasticity of economic growth as 0.87 and the money multiplier as 1.18. We construct deposit shocks by combining a new fact regarding the within-bank geographic concentration of deposits -- 30% of deposits are concentrated in a single county -- with local natural disasters. Large natural disasters in deposit-concentrated areas negatively affect bank deposits and amplify through bank internal capital markets. These shocks can explain 3.30% of the variation in economic growth. Lender and borrower-side frictions are critical for the aggregation of local shocks.
           </details>
 
-`7.` [**Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299) (with Nishant Vats)
+`7.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299" style="color:rgb(0, 0, 128); text-decoration: underline;">**Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations** </a> (with Nishant Vats)
 <details>
 <summary>Abstract:</summary>
 
@@ -71,7 +65,7 @@ author_profile: true
 ## III. Finance and Development
 
 
-`8.` [**What Explains Geographic Variation in Corporate Investment?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851008) (with Nishant Vats)
+`8.` <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851008" style="color:rgb(0, 0, 128); text-decoration: underline;">**What Explains Geographic Variation in Corporate Investment?** </a> (with Nishant Vats)
 <details>
 <summary>Abstract:</summary>
 

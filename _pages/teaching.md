@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I teach in the <a href="https://www.anderson.ucla.edu/degrees/full-time-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Full-Time MBA, ** </a>, <a href="https://www.anderson.ucla.edu/degrees/fully-employed-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Fully-Employed MBA, ** </a>, and <a href="https://www.anderson.ucla.edu/degrees/executive-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Executive MBA** </a> programs at <a href="https://www.anderson.ucla.edu/" style="color:rgb(0, 0, 128); text-decoration: none;">**UCLA Anderson.** </a>. 
+I teach in the <a href="https://www.anderson.ucla.edu/degrees/full-time-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Full-Time MBA,** </a>, <a href="https://www.anderson.ucla.edu/degrees/fully-employed-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Fully-Employed MBA,** </a>, and <a href="https://www.anderson.ucla.edu/degrees/executive-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Executive MBA** </a> programs at <a href="https://www.anderson.ucla.edu/" style="color:rgb(0, 0, 128); text-decoration: none;">**UCLA Anderson.** </a>. 
 
 I am scheduled to teach in all quarters of 2024: winter, spring, summer, and fall.
 
@@ -47,24 +47,24 @@ I am scheduled to teach in all quarters of 2024: winter, spring, summer, and fal
   - 2 sections, UCLA Anderson
 
 ## Winter 2021
-- **Teaching Assistant for BUS 35210: International Corporate Finance,** [**Prof. Raghuram Rajan**](https://faculty.chicagobooth.edu/raghuram-rajan)
+- **Teaching Assistant for BUS 35210: International Corporate Finance, Prof. Raghuram Rajan**
   - 3 sections, Chicago Booth
  
 ## Winter 2020
 
-- **Teaching Assistant for BUS 35210: International Corporate Finance,** [**Prof. Raghuram Rajan**](https://faculty.chicagobooth.edu/raghuram-rajan)
+- **Teaching Assistant for BUS 35210: International Corporate Finance, Prof. Raghuram Rajan**
   - 3 sections, Chicago Booth
-- **Teaching Assistant for BUS 35000: Investments,** [**Prof. Wenxin Du**](https://sites.google.com/site/wenxindu/)
+- **Teaching Assistant for BUS 35000: Investments, Prof. Wenxin Du**
   - 2 sections, Chicago Booth
 
 ## Fall 2019
 
-- **Teaching Assistant for BUS 20405/35100: Financial Instruments,** [**Prof. George Constantinides**](https://faculty.chicagobooth.edu/george-constantinides)
-  - 2 sections, Chicago Booth; 1 section, College
+- **Teaching Assistant for BUS 20405/35100: Financial Instruments, Prof. George Constantinides**
+  - 2 sections, Chicago Booth; 1 section, University of Chicago (Undergraduate College)
 
 ## Spring 2019
 
-- **Teaching Assistant for BUS 35211: Analytics of Financial Crises,** [**Prof. Anil Kashyap**](https://faculty.chicagobooth.edu/anil-kashyap)
+- **Teaching Assistant for BUS 35211: Analytics of Financial Crises, Prof. Anil Kashyap**
   - 2 sections, Chicago Booth
-- **Teaching Assistant for BUS 35000: Investments,** [**Prof. Wenxin Du**](https://sites.google.com/site/wenxindu/)
+- **Teaching Assistant for BUS 35000: Investments, Prof. Wenxin Du**
   - 2 sections, Chicago Booth

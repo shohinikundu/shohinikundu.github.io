@@ -8,7 +8,7 @@ author_profile: true
 
 I am scheduled to teach in <ins>all quarters of 2024</ins>: winter, spring, summer, and fall.
 
-> **Winter 2024 Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0.`
+> **Winter 2024 Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0.
 
 
 ## Fall 2024

@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I teach in the Full-Time MBA, Fully-Employed MBA, and Executive MBA programs at UCLA Anderson. 
+I teach in the <a href="https://www.anderson.ucla.edu/degrees/full-time-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Full-Time MBA, ** </a>, <a href="https://www.anderson.ucla.edu/degrees/fully-employed-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Fully-Employed MBA, ** </a>, and <a href="https://www.anderson.ucla.edu/degrees/executive-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Executive MBA** </a> programs at <a href="https://www.anderson.ucla.edu/" style="color:rgb(0, 0, 128); text-decoration: none;">**UCLA Anderson.** </a>. 
 
 I am scheduled to teach in all quarters of 2024: winter, spring, summer, and fall.
 

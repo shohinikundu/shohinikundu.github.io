@@ -8,7 +8,8 @@ author_profile: true
 
 I am scheduled to teach in <ins>all quarters of 2024</ins>: winter, spring, summer, and fall.
 
-> **Spring 2024: Joint Executive MBA/Fully-Employed MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
+> **Summer 2024: Joint Executive MBA/Fully-Employed MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
+> **Spring 2024: Fully-Employed MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
 > **Spring 2024: Joint MBA/Fully-Employed MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
 > **Winter 2024: MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0
 

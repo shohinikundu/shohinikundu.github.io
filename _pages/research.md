@@ -41,10 +41,10 @@ Closed-end funds are thought to have negligible fire sale risk as they have stab
 
 ## II. Empirical Macro Finance
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813996" style="color:rgb(0, 0, 128); text-decoration: none;">**5. <u>NEW:</u> The Economics of Market-Based Deposit Insurance** </a> **(with Edward Kim and Amiyatosh Purnanandam)**
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813996" style="color:rgb(0, 0, 128); text-decoration: none;">**5. <u>NEW:</u> The Economics of Network-Based Deposit Insurance** </a> **(with Edward Kim and Amiyatosh Purnanandam)**
 <details>
 <summary>Abstract:</summary>
-We examine the financial stability implications of deposit insurance using a recent financial innovation: reciprocal deposits. Banks can significantly increase deposit insurance coverage through the reciprocal deposit network, where they break up large deposits and place them with other banks in an offsetting manner. With almost $450 billion in outstanding contracts under this arrangement, reciprocal deposits have become an important source of funding for the U.S. banking sector. Using network presence as an instrument, we show that enhanced insurance coverage allowed banks to retain deposits following the 2023 banking crisis. Network banks pay lower interest rates on their deposits, indicating depositors’ willingness to accept lower rates for higher insurance access. Enhanced coverage also has implications for competition and bank risk-taking; we find evidence that network banks grow larger and increase their exposure to interest rate risk.
+We examine the financial stability implications of deposit insurance using reciprocal deposits, a financial innovation through which banks can break up large deposits and place them with others in an offsetting manner. We show that higher insurance coverage allowed banks to stem deposit outflows during the 2023 banking crisis. Network banks paid lower deposit rates, grew larger, and expanded their local deposit market share, while assuming greater exposure to interest rate risk. We discuss the trade-offs of deposit insurance and its impact on the banking sector's industrial organization.
           </details>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4798818" style="color:rgb(0, 0, 128); text-decoration: none;">**6. <u>NEW:</u> Diverging Banking Sector: New Facts and Macro Implications** </a> **(with Tyler Muir and Jinyuan Zhang)**

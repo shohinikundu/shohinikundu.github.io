@@ -52,6 +52,12 @@ We examine the financial stability implications of deposit insurance using recip
 <summary>Abstract:</summary>
 We document the emergence of two distinct types of banks over the past decade: high rate banks, which align deposit rates with market interest rates, hold shorter-term assets, and primarily earn lending spreads by taking more credit risk through personal and business loans; and low rate banks, which offer interest-insensitive, low deposit rates, hold a larger proportion of long-term securities (e.g., MBS), and make fewer loans. This divergence in the banking sector leads to a significant shift of deposits towards high rate banks as interest rates rise, thereby reducing the sector’s overall capacity for maturity transformation and increasing its exposure to credit risk, particularly through personal loans. Our evidence suggest that technological advancements in banking spurred the divergence: high rate banks operate primarily online and attract less sticky depositors. In response, low rate banks lower rates through the retention of relatively stickier depositors.
           </details>
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299" style="color:rgb(0, 0, 128); text-decoration: none;">**9. Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations,**</a> <a href="https://www.aeaweb.org/journals/mac" style="color:rgb(128, 0, 32); text-decoration: none;">**[_Conditionally Accepted at AEJ: Macroeconomics_],**</a> **(with Nishant Vats)**
+<details>
+<summary>Abstract:</summary>
+This paper explores the transmission of non-capital shocks through banking networks. We construct non-capital (idiosyncratic) shocks, using labor productivity shocks to large firms. We document a change in the relationship between foreign idiosyncratic shocks and domestic economic growth between 1978 and 2000. Contemporaneous changes in banking integration drive this phenomenon as geographically diversified banks divert funds away from economies experiencing negative shocks towards other unaffected economies. Our granular-IV estimates suggest that a 1% increase in bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, this can potentially explain the Great Moderation.
+          </details>
           
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247519" style="color:rgb(0, 0, 128); text-decoration: none;">**7. Canary in the Coal Mine: Bank Liquidity Shortages and Local Economic Activity** </a> **(with Rajkamal Iyer and Nikos Paltalidis)**
 <details>
@@ -63,12 +69,6 @@ This paper investigates the relation between bank liquidity and local economic a
 <details>
 <summary>Abstract:</summary>
 What are the aggregate effects of deposit shocks? Using the granular-instrumental-variable methodology, we identify the deposit elasticity of economic growth as 0.87 and the money multiplier as 1.18. We construct deposit shocks by combining a new fact regarding the within-bank geographic concentration of deposits -- 30% of deposits are concentrated in a single county -- with local natural disasters. Large natural disasters in deposit-concentrated areas negatively affect bank deposits and amplify through bank internal capital markets. These shocks can explain 3.30% of the variation in economic growth. Lender and borrower-side frictions are critical for the aggregation of local shocks.
-          </details>
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3556299" style="color:rgb(0, 0, 128); text-decoration: none;">**9. Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations,**</a> <a href="https://www.aeaweb.org/journals/mac" style="color:rgb(128, 0, 32); text-decoration: none;">**[_R&R at AEJ: Macroeconomics_],**</a> **(with Nishant Vats)**
-<details>
-<summary>Abstract:</summary>
-This paper explores the transmission of non-capital shocks through banking networks. We construct non-capital (idiosyncratic) shocks, using labor productivity shocks to large firms. We document a change in the relationship between foreign idiosyncratic shocks and domestic economic growth between 1978 and 2000. Contemporaneous changes in banking integration drive this phenomenon as geographically diversified banks divert funds away from economies experiencing negative shocks towards other unaffected economies. Our granular-IV estimates suggest that a 1% increase in bank loan supply is associated with a 0.05-0.26 pp increase in economic growth. Lastly, this can potentially explain the Great Moderation.
           </details>
 
 ## III. Corporate Finance

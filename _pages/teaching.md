@@ -6,8 +6,6 @@ author_profile: true
 ---
 **I teach in the** <a href="https://www.anderson.ucla.edu/degrees/full-time-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Full-Time MBA,**</a> <a href="https://www.anderson.ucla.edu/degrees/fully-employed-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Fully-Employed MBA,**</a> **and** <a href="https://www.anderson.ucla.edu/degrees/executive-mba" style="color:rgb(0, 0, 128); text-decoration: none;">**Executive MBA** </a> **programs at** <a href="https://www.anderson.ucla.edu/" style="color:rgb(0, 0, 128); text-decoration: none;">**UCLA Anderson**.</a>
 
-I am teaching <ins>all four quarters in 2024</ins>: winter, spring, summer, and fall.
-
 > **Fall 2024: Full-Time MBA, Section 1, Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
 > **Fall 2024: Full-Time MBA, Section 2, Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
 > **Summer 2024: Executive/Fully-Employed MBA Teaching Evaluation:** Median 5.0/5.0; Mode 5.0/5.0\
